@@ -1,4 +1,4 @@
-# Proyecto_OAW
+# Proyecto SRI
 Proyecto para la materia de Sistemas de Recomendación de Información
 
 ## Integrantes
